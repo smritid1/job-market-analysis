@@ -1,4 +1,4 @@
-# Job Market Analysis in Tableau & Power BI
+# Job Market Analysis in Tableau 
 
 ## Project Overview
 This project analyzes job market trends in the Data & Analytics industry using Tableau. The goal is to uncover insights that help recruiters (DataSearch) understand demand for roles, required skills, salary trends, and industry behavior.
