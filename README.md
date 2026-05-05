@@ -1,9 +1,7 @@
 # Job Market Analysis in Tableau 
 
 ## Project Overview
-This project analyzes job market trends in the Data & Analytics industry using Tableau. The goal is to uncover insights that help recruiters (DataSearch) understand demand for roles, required skills, salary trends, and industry behavior.
-
-The dataset consists of job postings over the past 5 years, including attributes like job title, industry, salary, experience, applicants, and required skills.
+This project analyzes job market trends in the Data & Analytics industry
 
 ---
 
@@ -16,20 +14,8 @@ The dataset consists of job postings over the past 5 years, including attributes
 
 ---
 
-## Dataset Overview
-- 5 years of job posting data
-- 19 columns including:
-  - Job Title
-  - Company Industry
-  - Job Type & Level
-  - Skills Required
-  - Salary (Min & Max)
-  - Years of Experience
-  - Number of Applicants (first 24 hrs)
-
-⚠️ Note:  
+# Note:  
 - Over 90% of minimum salary values are missing  
-- Dataset is fictitious (used for analysis practice only)
 
 ---
 
